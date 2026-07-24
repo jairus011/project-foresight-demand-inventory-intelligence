@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+notebook
+plotly
+streamlit
+fastapi
+uvicorn
+python-dotenv
+openpyxl
