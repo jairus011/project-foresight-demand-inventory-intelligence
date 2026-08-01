@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignore raw datasets
+data/raw/
+
+# Ignore processed datasets
+data/processed/*.csv
+
+# Keep the processed folder structure
+!data/processed/.gitkeep
+
+# Ignore ZIP datasets
+*.zip
